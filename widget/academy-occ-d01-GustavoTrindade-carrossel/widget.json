@@ -1,0 +1,24 @@
+{
+  "availableToAllPages": true,
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "imports": [],
+  "javascript": "academy-occ-d01-GustavoTrindade-carrossel",
+  "jsEditable": true,
+  "minWidth": 1,
+  "source": 101,
+  "translations": [
+    {
+      "language": "en",
+      "name": "academy-occ-d01-GustavoTrindade-carrossel"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-GustavoTrindade-carrossel"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "academy-occ-d01-GustavoTrindade-carrossel",
+  "widgetType": "academy-occ-d01-GustavoTrindade-carrossel"
+}

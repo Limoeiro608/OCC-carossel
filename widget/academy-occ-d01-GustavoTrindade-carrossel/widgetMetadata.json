@@ -1,0 +1,18 @@
+{
+  "imports": [],
+  "translations": [
+    {
+      "name": "academy-occ-d01-GustavoTrindade-carrossel",
+      "language": "en"
+    },
+    {
+      "name": "academy-occ-d01-GustavoTrindade-carrossel",
+      "language": "pt_BR"
+    }
+  ],
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "minWidth": 1,
+  "globalEnabled": false,
+  "config": {}
+}
